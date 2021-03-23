@@ -1,0 +1,10 @@
+F:\ИС-23\Morinad\Pr_29\Pr_29\bin\Debug\Pr_29.exe.config
+F:\ИС-23\Morinad\Pr_29\Pr_29\bin\Debug\Pr_29.exe
+F:\ИС-23\Morinad\Pr_29\Pr_29\bin\Debug\Pr_29.pdb
+F:\ИС-23\Morinad\Pr_29\Pr_29\obj\Debug\Pr_29.csprojAssemblyReference.cache
+F:\ИС-23\Morinad\Pr_29\Pr_29\obj\Debug\Pr_29.Form1.resources
+F:\ИС-23\Morinad\Pr_29\Pr_29\obj\Debug\Pr_29.Properties.Resources.resources
+F:\ИС-23\Morinad\Pr_29\Pr_29\obj\Debug\Pr_29.csproj.GenerateResource.cache
+F:\ИС-23\Morinad\Pr_29\Pr_29\obj\Debug\Pr_29.csproj.CoreCompileInputs.cache
+F:\ИС-23\Morinad\Pr_29\Pr_29\obj\Debug\Pr_29.exe
+F:\ИС-23\Morinad\Pr_29\Pr_29\obj\Debug\Pr_29.pdb
