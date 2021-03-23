@@ -16,5 +16,15 @@ namespace Pr_29
         {
             InitializeComponent();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show(textBox1.Text);
+        }
     }
 }
